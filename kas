@@ -1,3 +1,4 @@
+displayName: TestHpTuningJob
 maxTrialCount: 8000
 parallelTrialCount: 8
 studySpec:
